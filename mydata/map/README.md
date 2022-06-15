@@ -1,0 +1,4 @@
+# 说明
+此文件夹中的数据为关联矩阵中circRNA及drug的id及名称的对照表。
+在文件drug_pubchem_map中第一列为关联矩阵中的id，第二列为对应的药物名称，第三列为药物在pubchem中的药物id.
+在gene_map中第一列为关联矩阵中的id，第二列为circRNA在ncbi的Gene数据库中对应的gene的id，第三列为其名称.
